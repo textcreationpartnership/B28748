@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Reasons humbly offered for restraining the wearing of wrought silks, bengals, and dyed, printed, and stained callicoes, of the product and manufacture of Persia and the East-Indies, in England and our plantations</title>
+         </titleStmt>
+         <extent>Approx. 9KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B28748</idno><idno type="EEBO-CITATION">12729960</idno>
+  <idno type="VID">199305</idno>
+  <idno type="EEBO-PROQUEST">2240956584</idno>
+  
+            <idno type="STC">Wing R540</idno>
+            <idno type="OCLC">12729960</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B28748)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 199305)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 361:1f)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Reasons humbly offered for restraining the wearing of wrought silks, bengals, and dyed, printed, and stained callicoes, of the product and manufacture of Persia and the East-Indies, in England and our plantations</title>
+               </titleStmt>
+               <extent>3, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London? :</pubPlace>
+                  <date>1699?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Consideration submitted to Parliament concerning trade in East-India without restrictions.</note>
+                  <note>Caption title.</note>
+                  <note>"Reasons against wearing of India wrought silks ... in England, and the plantations" endorsed on p. [4]; evidently meant to be folded in legal paper fashion.</note>
+                  <note>Place and date of publication from NUC pre-1956 imprints.</note>
+                  <note>Reproduction of original in Yale University Library.</note>
+                  <note>Reel guide incorrectly lists item as on reel 367.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="corporate_name">East India Company.</term>
+               <term type="topical_term">Textile industry --  England.</term>
+               <term type="geographic_name">Great Britain --  Commerce --  History --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-07 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-09 </date>
+            <label>John Pas </label>Sampled and proofread </change>
+         <change>
+            <date>2014-09 </date>
+            <label>John Pas</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:199305:1"/>
+            <head>
+               <hi>REASONS Humbly Offered</hi> For Restraining the Wearing of Wrought Silks, Bengals, and Dyed, Printed, and Stained Callicoes, of the Product and Manufacture of <hi>Persia</hi> and the <hi>East-Indies,</hi> in <hi>England</hi> and our Plantations.</head>
+            <p>THE Goods Imported from the <hi>East-Indies,</hi> for several Years after the <hi>East-India Company</hi> were first Established, were Drugs, Spices, Salt-petre, <hi>&amp;c.</hi> and some Course Cal<g ref="char:EOLhyphen"/>lico's, which were most Exported again: The Members of that Company being then afraid to adventure on other Manufactured Goods, because they well knew it would prejudice our own, and raise a Storm against the Company, as they often-times declared.</p>
+            <p>That the <hi>Charter</hi> of the <hi>East-India Company</hi> was Confirmed by King <hi>Charles</hi> II. in the Thirteenth Year of his Reign: and the Law for permitting Bullion to be Exported, was made soon after, at the Solicitation of that Company; and till then, little Silver or Gold was Exported. After that Law was made, begun the great Exportation of Bullion to <hi>India.</hi>
+            </p>
+            <p>That, in <hi>Anno</hi> 72, or 73 several Artificers, were sent over by the Com<g ref="char:EOLhyphen"/>pany, with great quantity of English Patterns, to teach the <hi>Indians</hi> how to Manufacture Goods to make them Vendible in <hi>England,</hi> and the rest of the <hi>European</hi> Markets. After which began the great Trade in Manufa<g ref="char:EOLhyphen"/>ctured Goods from the <hi>Indies.</hi>
+            </p>
+            <p>That this was complained of, and proved before several Lords appointed by King <hi>Charles</hi> II. in <hi>Anno</hi> 1680, or 81. Whereupon the Company re<g ref="char:EOLhyphen"/>ceived some Discouragement; but finding great Gain by Wrought Silks, Bengals and Callico's, would not desist Trading in them: upon which great Complaints were made in Parliament, against the growth of the <hi>East-India</hi> Trade.</p>
+            <p>That about 500000 <hi>l.</hi> in Bullion, and but small quantities of our Manu<g ref="char:EOLhyphen"/>factures have been Yearly Exported; and vast quantities of Manufactured Goods Imported, for several Years before the War.</p>
+            <p>That a great part of the <hi>India</hi> Manufactured Goods were spent in <hi>England,</hi> and our Plantations, in the room of our own Manufactures, <hi>viz.</hi> their Wrought Silks, Bengall's, Painted and Dyed Callico's, in the room of our Silks, Half Silks, Worsted Stuffs, Say's, Perpetuano's, and divers other Commodities, not only for Vestments for both Sexes, but for Hanging of Rooms, Beds, <hi>&amp;c.</hi>
+            </p>
+            <pb n="2" facs="tcp:199305:2"/>
+            <p>That the <hi>India</hi> Trade was encreased, before the War, to a very great height, and their Manufactures in so great request, that they (from being a Scandal to be worn a few years before) soon after became the general Wear of almost all sorts and degrees of Persons; by which means our own Manufactures were neglected, and our Manufacturers thereby under great dis<g ref="char:EOLhyphen"/>couragement, being not able to carry on their Trades, many were forced to give over, whereby the Poor wanted Employment, the Price of Wool reduced very low, and great quantities of Wool could not be Manufactured: Whereupon the Parliament thought it necessary to make a Law for <hi>Burying in Woollen,</hi> thereby to consume some of the Wool that lay heavy upon the Growers Hand.</p>
+            <p>That the <hi>Indians</hi> have Provisions and Materials very cheap, and Wages at three Half-pence or two pence a Day; which disables us, and the rest of the <hi>European</hi> Traders, to contend with them; and for this reason, their Trade did encrease apace, until this War; and unless restrained, will most certainly encrease, to the ruining of our best Fabricks, and the vast num<g ref="char:EOLhyphen"/>ber of People that have their Livelihood and Dependance thereupon.</p>
+            <p>That since this War, the <hi>India</hi> Company have laboured under some Discouragements, and but small quantities of their Manufactured Goods, in proportion to what they formerly brought in, have been Imported; by reason thereof, great Encouragement hath been given to the Manufactures of Silk, Half Silk, and Worsted, which have been very much improved in a great variety of Figured, Strip'd, and other sort of Stuffs, which have been made not only in <hi>London, Norwich</hi> and <hi>Canterbury,</hi> in much greater quantities than ever; but this Manufacture has now spread it self to <hi>Bristol, Newbury,</hi> and divers other Parts of the Kingdom; and will yet encrease, if due Encouragement be given thereto.</p>
+            <p>That since our Trade hath encreased, greater numbers of Poor have been employed, and greater quantities of English Wool consumed; so that the Price of the Wool is advanced, and the Labour and Wages of the Poor encreased; which enables them to live comfortably, and consume the Product of the Land, to support themselves and Families; which is of great Advantage to the Landlords and Tenants, and the Benefit of the whole Nation.</p>
+            <p>That in case the <hi>East-India</hi> Stock should be enlarged, and that Trade settled by Act of Parliament, it will be in the power of that Company to ruine our Woollen and Silk Manufactures, and bring down the Price of Wool, and Work-mens Labour and Wages, as low, if not lower, than ever, unless the Wearing of the said Manufactured Goods be prohibited in <hi>England,</hi> and the Plantations.</p>
+            <p>That such Prohibition would not only encourage our own Manufactures, upon which the Value of Lands, and the Employment of our Poor depends, but prevents the Exportation of much of our Coin, which at this time can be very ill spared; and also prevent many of the Inconveniences feared from the <hi>Scotch East-India Company.</hi>
+            </p>
+            <p>That since there is a Trade found out to the <hi>Indies,</hi> no Objection can well be made against their Trade in Spices, Drugs, Salt-petre, <hi>&amp;c.</hi> nor against the Manufactured Goods that are brought in, and again exported to Foreign Markets; because it will be carry'd on by others, if we should neg<g ref="char:EOLhyphen"/>lect it: But certainly it must be accounted very ill Husbandry, and will be of fatal and ruinous consequence, to despise our own Manufactures, and send our Gold and Silver to the <hi>Indies,</hi> from whence it will never return,
+<pb n="3" facs="tcp:199305:2"/>to purchase Manufactur'd Goods to be consumed at Home, when our Money may be kept here to circulate among our selves; and is so necessary to our Commerce, and payments of our Fleets and Armies, without which, we can neither be rich or safe.</p>
+            <p>That the great Argument that is used in favour of the <hi>East-India</hi> Com<g ref="char:EOLhyphen"/>pany, is, <hi>That although they Export great Quantities of Bullion, yet they bring in much more for the Goods they sell in Foreign Markets.</hi> Suppo<g ref="char:EOLhyphen"/>sing their Assertion to be true, this can be no Argument against the prohibiting their Manufactures to be worn in <hi>England,</hi> and our Plan<g ref="char:EOLhyphen"/>tations, but rather an Argument for it; for what is consumed at Home, brings in no Bullion; and if none be consumed at Home, more may be sent Abroad: for it will make the Company more industrious to find out either New Commodities to deal in, or Markets for the vending thereof, whereby they may make their Trade more Profitable to the Nation.</p>
+            <p>It is also alledged, in favour of the <hi>East-India</hi> Trade, <hi>That there have of late years been great Quantities of English Cloth Exported by the Company.</hi> To which this Answer is to be given, That the Cloth by them Exported more than formerly, is not consumed in <hi>India,</hi> but sent thence to <hi>Persia;</hi> which hinders the <hi>Turkey</hi> Merchants, who formerly used to supply those Markets. So that the <hi>East-India</hi> Company sending away our Cloth, proves no Advantage to us, and is only done to gain a good Opinion, and make the Nation believe that their Trade is not so prejudicial to us as has been represented, or as in reality it is.</p>
+            <p>That the sending our Money to the <hi>East-Indies,</hi> to purchase Goods perfectly Manufactured there, may Advance Lands, Enrich the People, Employ the Poor in <hi>India:</hi> But such as are spent here, in the room of our own Manufactures, must have the quite contrary effect with us.</p>
+            <p>Whether it be for the Interest of <hi>England,</hi> to Settle the <hi>East-India</hi> Trade, without Restrictions, is humbly submitted to the Consideration of the <hi>Parliament.</hi>
+            </p>
+         </div>
+      </body>
+      <back>
+         <div type="docket_title">
+            <pb facs="tcp:199305:3"/>
+            <p>REASONS Against Wearing of <hi>India</hi> Wrought Silks, Bengals, and Callicoes, In <hi>England,</hi> and the Plantations.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
